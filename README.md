@@ -1,6 +1,6 @@
 # Guanabara Python Exercises
 
-Este repositório contém uma série de exercícios de Python baseados nos tutoriais do Professor Guanabara, que são perfeitos para quem quer aprimorar suas habilidades de programação com desafios práticos e objetivos claros. Eu, **Fab1471**, resolvi os exercícios dos **Mundos 1, 2 e 3**, trazendo soluções completas e bem comentadas para cada um deles.
+Este repositório contém uma série de exercícios de Python baseados nos tutoriais do Professor Guanabara, que são perfeitos para quem quer aprimorar suas habilidades de programação com desafios práticos e objetivos claros. Eu, **Fabri*, resolvi os exercícios dos **Mundos 1, 2 e 3**, trazendo soluções completas e bem comentadas para cada um deles.
 
 ## O que está incluído?
 
